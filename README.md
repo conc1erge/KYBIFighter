@@ -1,6 +1,14 @@
-# MidiFighter3DKeyMapper
+# KYBIFighter (KeebiFighter) is a fork of MidiFighter3DKeyMapper
 
-A Simple Midi Input Key Remapping tray application designed with the Midi Fighter 3D in Mind.
+## A Simple Midi Input Key Remapping tray application designed with the Midi Fighter 3D, Spectra and 64 in Mind.
+
+# THIS IS A FORK. I REPEAT, THIS IS A FORK.
+> I'm only doing this because [MFHK](https://github.com/conc1erge/LPHK), my fork of [LPHK](https://github.com/nimaid/LPHK) only works with the MF64.
+> I'm getting a Spectra soon and I want to actually use something more lightweight that functions like my LPHK fork (well, minus the lights sadly) and
+> I want to use a language that I actually know the basics of, which will help me familiarize the language more.
+
+
+# Original README is shown from this point beyond
 
 ## Usage
 
